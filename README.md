@@ -32,10 +32,11 @@ Here are the key codes and their corresponding actions in the game:
 | `A`        | Move Left        |
 | `S`        | Move Down        |
 | `D`        | Move Right       |
-| `LeftMouse`| Shoot            |
+| `LeftMouse`| Shooting         |
+| `Space`    | Shooting         |
 
 ## Demo
 ### Main Menu
-![MainMenu](https://github.com/Junnie2412/SpaceShooting/assets/101618720/0d587ae7-e242-4e50-80d1-1206165d1223)
+![MainMenu](https://github.com/Junnie2412/SpaceShooting/assets/101618720/56f53a92-0de2-46ae-8a6c-a7d9ba5d9909)
 ### Game Play
 ![MainMenu](https://github.com/Junnie2412/SpaceShooting/assets/101618720/4143f260-fcb5-4baf-ac88-17f74349455e)
