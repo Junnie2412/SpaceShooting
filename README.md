@@ -38,5 +38,10 @@ Here are the key codes and their corresponding actions in the game:
 ## Demo
 ### Main Menu
 ![MainMenu](https://github.com/Junnie2412/SpaceShooting/assets/101618720/56f53a92-0de2-46ae-8a6c-a7d9ba5d9909)
+### Story
+![MainMenu](https://github.com/user-attachments/assets/9a5f0bfd-b4f9-4e09-9b9a-4d98f7442a82)
 ### Game Play
 ![MainMenu](https://github.com/Junnie2412/SpaceShooting/assets/101618720/4143f260-fcb5-4baf-ac88-17f74349455e)
+### Ending
+![MainMenu](https://github.com/user-attachments/assets/093efb23-cc75-4ff6-a2e9-87c47fd81874)
+
